@@ -5,6 +5,7 @@
 3. Then, run: cd git-assignment-2
 4. Then, open the folder git-assignment-2 in VSCode
 5. Open the README.md file, which is this file, you will edit this on VSCode
+6. VOCAB: Origin = your fork (your_user/git-assignment-2)    Upstream = my repo (josephor1271/git-assignment-2)
 
 ## Part 1 (Branch then merging within your fork)
 1. First, you will make a branch named writing
